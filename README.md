@@ -8,3 +8,7 @@ Projeto que tem como objetivo recebar a url dos resultados da Lotofácil e fazer
 ## O Projeto Imóveis
 Projeto que tem como objetivo receber a url de uma imobiliaria e extrair dados de imóveis de uma determinada cidade (caso desse projeto Uberlândia-MG).
 Após a extração dos dados selecionados, foi gerado um arquivo .csv para melhor visualização e análise desses dados.
+
+## O Projeto Docker e Banco
+Projeto que tem como objetivo criar um conteiner e fazer operações de banco via Docker.
+Inclui uma visualização de BI com o Metabase.
